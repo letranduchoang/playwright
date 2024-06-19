@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "INGRESSCOOKIE",
+      "value": "1718691345.257.3853.891533|bfe33acbe3c217a6387eb69949dbaa78",
+      "domain": "uat-iapps.talgroup.com",
+      "path": "/scd",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "Qv_j08MNFPl0-sJ4co1YGFVcyj0q0iVJgfqjc0Uv.scd-5744d78cf4-xz7vb",
+      "domain": "uat-iapps.talgroup.com",
+      "path": "/scd",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
